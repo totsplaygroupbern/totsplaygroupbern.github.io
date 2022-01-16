@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Tots Playgoup Bern
 
-You can use the [editor on GitHub](https://github.com/totsplaygroupbern/totsplaygroupbern.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We are a friendly and open English speaking playgroup. It's a great place for children from 0-4yrs and their parents/caregivers to meet together, socialise, play and sing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The group is run by parent on a voluntary basis and takes place on **Wednesday mornings from 9:15am to 11:15am**. The cost is CHF 5 which includes a snack for the children and hot drinks and biscuits for the parents.
 
-### Markdown
+We are localted in the lower hall at St Ursula's - Jubiläumspl. 2, 3005 Bern
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.425619466230275%2C46.93154919133136%2C7.472740514203906%2C46.95633605018536&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=15/46.9439/7.4492&amp;layers=N">View Larger Map</a></small>
 
-```markdown
-Syntax highlighted code block
+We look forward to welcoming you to our group.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/totsplaygroupbern/totsplaygroupbern.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
