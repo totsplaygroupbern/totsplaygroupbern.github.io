@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Duet
-  favicon_image: /images/favicon.png
+  site_title: Playgroup Bern
+  favicon_image: /images/favicon.ico
 
 header_settings:
   logo_image: 
@@ -8,19 +8,13 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+      url: '/about/'
 
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: A beautiful, minimal two-column portfolio Jekyll theme
+  footer_tagline: A friendly and open English speaking playgroup in Bern
 
 grid_settings:
   overlay_opacity: 0.8
@@ -33,9 +27,9 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://www.facebook.com/groups/678038115547386/'
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/parentstots/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''

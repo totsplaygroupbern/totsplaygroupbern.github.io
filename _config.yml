@@ -1,6 +1,6 @@
-site: Duet Jekyll Theme
+site: Playgroup Bern
 
-url: 
+url: https://playgroupbern.ch
 baseurl: 
 
 collections:
@@ -8,10 +8,10 @@ collections:
     output: true
     permalink: /:name
   posts:
-    output: true
+    output: false
     permalink: /blog/:slug
   projects:
-    output: true
+    output: false
     permalink: /project/:slug
 
 defaults:
